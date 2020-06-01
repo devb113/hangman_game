@@ -1,4 +1,4 @@
-# hangman_game
+# Hangman Game
 Implementation of Hangman Game using Vanilla JavaScript (ECMAScript 6), HTML5, CSS3.
 <br>
 This Game allows User to guess the Word. 
