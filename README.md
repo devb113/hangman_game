@@ -4,4 +4,6 @@ Implementation of Hangman Game using Vanilla JavaScript (ECMAScript 6), HTML5, C
 This Game allows User to guess the Word. 
 <br>
 If User fails to guess the right word after consuming all his/her chances, Screen Prompts with Game Over. 
-<br>The WebApp can be accessed at:https://iamrohitagg.github.io/hangman_game/index.html
+<br>The WebApp can be accessed at:
+<br>
+https://iamrohitagg.github.io/hangman_game/index.html
