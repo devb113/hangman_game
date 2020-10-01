@@ -14,9 +14,9 @@ The flowchart for the project can be drawn as:
 <img src = "https://github.com/iamrohitagg/hangman_game/blob/master/flowChart.png"></img>
 If User fails to guess the right word after consuming all his/her chances, Screen Prompts with Game Over.
 
-The WebApp can be accessed by clickig here 👇
+The WebApp can be accessed at: <a href="https://iamrohitagg.github.io/hangman_game/index.html">WebApp</a>
 
-<a href="https://iamrohitagg.github.io/hangman_game/index.html">WebApp</a>
+
 
 
 Python application for the same can be found here 👇
