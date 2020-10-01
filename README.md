@@ -20,6 +20,5 @@ The WebApp can be accessed at: <a href="https://iamrohitagg.github.io/hangman_ga
 
 
 Python application for the same can be found here 👇
-
 <a href="https://github.com/devb113/H-A-N-G-M-A-N">Python</a>
 
