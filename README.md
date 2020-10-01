@@ -19,5 +19,5 @@ The WebApp can be accessed at: <a href="https://iamrohitagg.github.io/hangman_ga
 
 
 
-Check Out the Python application for the H-A-N-G-M-A-N Game here:<a href="https://github.com/devb113/H-A-N-G-M-A-N">Python</a>
+Check Out! The Python application for the H-A-N-G-M-A-N Game here: <a href="https://github.com/devb113/H-A-N-G-M-A-N">Python</a>
 
