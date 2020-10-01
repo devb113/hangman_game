@@ -16,4 +16,5 @@ https://iamrohitagg.github.io/hangman_game/index.html
 <br>
 Python application for the same can be found here:
 <br>
+
 https://github.com/devb113/H-A-N-G-M-A-N
