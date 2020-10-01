@@ -13,3 +13,7 @@ If User fails to guess the right word after consuming all his/her chances, Scree
 The WebApp can be accessed at:
 <br>
 https://iamrohitagg.github.io/hangman_game/index.html
+<br>
+Python application for the same can be found here:
+<br>
+https://github.com/devb113/H-A-N-G-M-A-N
